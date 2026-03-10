@@ -4,7 +4,7 @@
 
     Tecnologias utilizadas
 
-    * Python
+    * Python (https://www.python.org/)
     * Robot Framework
     * Selenium Library
     * VS Code
