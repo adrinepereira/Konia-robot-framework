@@ -1,6 +1,7 @@
 # Automação de Testes - Konia Tecnologia
 
-    Este projeto contém uma suite de testes automatizadas para validar as funcionalidades do site da **Konia** utilizando o framework  **Robot Framework** com a biblioteca **SeleniumLibrary**
+    Este projeto contém uma suite de testes automatizadas para validar as funcionalidades do site da **Konia**
+    utilizando o framework  **Robot Framework** com a biblioteca **SeleniumLibrary**
 
     Tecnologias utilizadas
 
